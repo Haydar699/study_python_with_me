@@ -1,4 +1,4 @@
-# madlibs game 
+# Mad Libs Game
 # word game where players fill in the blanks to create a funny story
 
 # fill in the blanks with user input 
