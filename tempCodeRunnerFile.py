@@ -1,7 +1,13 @@
-book = input('would u like this book?(y/n): ').lower().strip()
-# if book == 'y' or book == 'yes':
-#     print(f"this book for u")
-# elif book == 'n' or book == 'not':
-#     print(f"ok, maybe next time")
+weight = float(input('enter ur weight: '))
+# unit = input("Kilogram or Pounds (K or L)? ").upper()
+
+# if unit == 'K':
+#     weight = weight * 2.205
+#     unit = 'lbs.'
+#     print(f"ur weight is {round(weight, 2)}{unit} ")
+# elif unit == 'L':
+#     weight = weight / 2.205
+#     unit = 'Kgs.'
+#     print(f"ur weight is {round(weight, 2)}{unit} ")
 # else:
-#     print('what do u mean bro???')
+#     print('ur input is invalid!')
